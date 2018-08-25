@@ -1,4 +1,4 @@
-package microservices.book.gamification;
+package microservices.book.gamification.configuration;
 
 import org.springframework.amqp.core.Binding;
 import org.springframework.amqp.core.BindingBuilder;
